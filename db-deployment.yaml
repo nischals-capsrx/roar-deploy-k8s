@@ -44,4 +44,3 @@ spec:
               configMapKeyRef:
                 name: mysql-configmap
                 key: mysql.user
-        
